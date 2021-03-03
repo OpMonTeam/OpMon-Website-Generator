@@ -6,6 +6,7 @@ title: OpMon
 youtube_channel_link: https://www.youtube.com/channel/UCcAW70kcQi3I-H49LfB76Gg
 
 # Build settings
+exclude: ["README.md"]
 theme: jekyll-theme-clean-blog
 markdown: kramdown
 paginate: 5
